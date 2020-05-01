@@ -1,0 +1,4 @@
+**/.terraform
+**/*.zip
+**/*.done
+**/cadastro
